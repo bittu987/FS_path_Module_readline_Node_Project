@@ -1,0 +1,12 @@
+{
+  "name": "fs-path-readline",
+  "version": "1.0.0",
+  "description": "Assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bittu Pathania",
+  "license": "ISC"
+}
